@@ -1,0 +1,14 @@
+Website = "https://github.com/RezaEjtehadi/spetra"
+
+[Details]
+  Name = "spetra"
+  ID = "com.spetra.app"
+  Version = "1.0.0"
+  Build = 1
+
+[LinuxAndBSD]
+  GenericName = "spetra"
+  Categories = ["Network"]
+  Comment = "Translation and pronunciation everywhere"
+  Keywords = ["browser", "web"]
+  ExecParams = "-x 42"
