@@ -14,6 +14,10 @@
 
 
 </div>
+<p align="center">
+  <img width="42%" alt="Spetra Demo 1" src="https://github.com/RezaEjtehadi/spetra/raw/main/assets/cpa.gif">
+  <img width="50%" alt="Spetra Demo 2" src="https://github.com/RezaEjtehadi/spetra/raw/main/assets/cpb.gif">
+</p>
 
 ---
 
