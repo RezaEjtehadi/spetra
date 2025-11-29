@@ -65,7 +65,7 @@ func runOnMain(f func()) {
 
 const (
 	currentVersion = 1
-	versionURL     = "https://raw.githubusercontent.com/RezaEjtehadi/test/refs/heads/master/README.md"
+	versionURL     = "https://raw.githubusercontent.com/RezaEjtehadi/spetra/refs/heads/main/updata"
 	releasesURL    = "https://github.com/RezaEjtehadi/spetra/releases/latest"
 )
 

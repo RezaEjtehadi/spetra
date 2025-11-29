@@ -4,7 +4,7 @@ Website = "https://github.com/RezaEjtehadi/spetra"
   Name = "spetra"
   ID = "com.spetra.app"
   Version = "1.0.0"
-  Build = 1
+  Build = 16
 
 [LinuxAndBSD]
   GenericName = "spetra"
