@@ -27,15 +27,13 @@
 - **Direct Download**: [Latest Release](https://github.com/RezaEjtehadi/spetra/releases)
 
 ### 🐧 Linux
-| Distribution | Installation Method |
-|--------------|---------------------|
-| **Arch Linux / Manjaro** | Available in AUR: [`spetra`](https://aur.archlinux.org/packages/spetra) |
-| **Fedora** | Available via [OBS](https://build.opensuse.org/package/show/home:zzndb:Spetra) |
-| **Ubuntu / Debian** | [Download .deb](https://github.com/RezaEjtehadi/spetra/releases) |
-| **All Distributions** | [Flatpak](https://flathub.org/apps/details/com.github.RezaEjtehadi.Spetra) |
-
-###  macOS
-- **Homebrew**: `brew install --cask spetra`
+- **From Source**:
+```bash
+tar -xvf spetra.tar.xz
+./configure
+make
+sudo make install
+```
 - **Direct Download**: [macOS Bundle](https://github.com/RezaEjtehadi/spetra/releases)
 
 ---
@@ -71,3 +69,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
+```
