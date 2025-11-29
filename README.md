@@ -6,7 +6,6 @@
   <h1>Spetra - Translation and Pronunciation Everywhere</h1>
   
   <h3>Cross-platform Translation Tool</h3>
-  <p>Windows • Linux </p>
 </p>
 
 <div align="center">
