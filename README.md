@@ -28,7 +28,8 @@
 ### 🐧 Linux
 - **From Source**:
 ```bash
-tar -xvf spetra.tar.xz
+wget https://github.com/RezaEjtehadi/spetra/releases/download/v1.0/spetra-linux-amd64.tar.xz
+tar -xvf spetra-linux-amd64.tar.xz
 ./configure
 make
 sudo make install
